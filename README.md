@@ -109,6 +109,9 @@ https://github.com/user-attachments/assets/525d8dc3-4e24-4aec-a152-23b2f92e3a32
 - https://github.com/srichaitragorentla-dotcom0/Food-Ordering-Behaviour-and-Consumer-Trends_project
 
 
+## web integration od Dashboard and Story
+ - https://github.com/user-attachments/assets/8baebe48-b1e4-433c-8ea1-fd209ae665a7
+
 
 ## Author
 * SriChaitra Gorentla
