@@ -104,8 +104,8 @@ https://github.com/user-attachments/assets/525d8dc3-4e24-4aec-a152-23b2f92e3a32
 - Dashboard Development
 - Data Visualization
 - Business Intelligence
-- 
-*Author*
+
+##Author*
 SriChaitra Gorentla
 
 ## License
