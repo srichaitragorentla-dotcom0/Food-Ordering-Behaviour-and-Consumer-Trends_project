@@ -80,7 +80,8 @@ https://public.tableau.com/views/Food_Ordering_Analysis_project/Dashboard2?:lang
 
 
 ## Demo Video
-https://github.com/user-attachments/assets/525d8dc3-4e24-4aec-a152-23b2f92e3a32
+-  https://drive.google.com/file/d/16qW1sE2DMFHMbh9KlgRHq5tJ1P7WevON/view?usp=sharing
+
 
 ## Workflow
 - Collect food ordering dataset.
