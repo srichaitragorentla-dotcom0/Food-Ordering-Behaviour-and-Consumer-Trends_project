@@ -21,7 +21,7 @@ This project analyzes customer food ordering behaviour and consumer trends using
 - Delivery Time Analysis
 - Peak Ordering Time Analysis
 - Business Performance Insights
-- 
+ 
 ## Tools & Technologies
 - Tableau Public
 - Microsoft Excel
