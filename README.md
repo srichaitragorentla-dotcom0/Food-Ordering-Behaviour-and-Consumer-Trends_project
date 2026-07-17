@@ -110,10 +110,6 @@ https://public.tableau.com/views/Food_Ordering_Analysis_project/Dashboard2?:lang
 - https://github.com/srichaitragorentla-dotcom0/Food-Ordering-Behaviour-and-Consumer-Trends_project
 
 
-## web integration of Dashboard and Story
- - https://github.com/user-attachments/assets/8baebe48-b1e4-433c-8ea1-fd209ae665a7
-
-
 ## Author
 * SriChaitra Gorentla
 
